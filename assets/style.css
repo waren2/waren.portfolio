@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#contact{
+    background: linear-gradient(#ccd5ae,#e9edc9);
+}
+.slider h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    font-weight: 600;
+
+}
+
+h5{
+    font-weight: lighter;
+    font-size: 14px !important;
+    color: #386641;
+}
+i{
+    box-shadow: 20px 0 45px rgb(0, 0, 0.32);
+}
+#contact_me{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* padding-top: 2%;
+    padding-bottom: 2%; */
+    background-image: url('images/contact.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#dops{
+     padding-top: 2%;
+    padding-bottom: 2%;
+    background-image: url('images/contact.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+span.social-icon{
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: center;
+    
+}
+span.social-icon i{
+    margin: 5px;
+}
+span h6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: smaller;
+    font-weight: 100;
+}
+.work h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+  
